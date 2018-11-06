@@ -2,7 +2,7 @@
 
 ## All the anime I've watched till now.
 
-### The list of all The animes are as follows:
+### The list of all the animes are as follows:
 
 1.	Avatar
 
