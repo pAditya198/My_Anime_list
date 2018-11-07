@@ -90,7 +90,7 @@
 
 43. Sinbad
 
-44.Sword Art Online
+44. Sword Art Online
 
 45. Shingatsu wa Kimi no Uso
 
