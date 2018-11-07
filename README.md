@@ -11,12 +11,19 @@
 3.	Bakugan
 
 4.	Beyblade(All series up to date)
+
     *Beyblade V-force
+    
     *Beyblade G Revolution
+    
     *Beyblade metal fussion
+    
     *Beyblade metal masters
+    
     *Beyblade metal furry
+    
     *Beyblade Shogun steel
+    
     *Beyblade Burst
 
 5.	Black Clover
