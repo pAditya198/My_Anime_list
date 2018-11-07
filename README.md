@@ -12,19 +12,19 @@
 
 4.	Beyblade(All series up to date)
 
-    *Beyblade V-force
+    a. Beyblade V-force
     
-    *Beyblade G Revolution
+    b. Beyblade G Revolution
     
-    *Beyblade metal fussion
+    c. Beyblade metal fussion
     
-    *Beyblade metal masters
+    d. Beyblade metal masters
     
-    *Beyblade metal furry
+    e. Beyblade metal furry
     
-    *Beyblade Shogun steel
+    g. Beyblade Shogun steel
     
-    *Beyblade Burst
+    g. Beyblade Burst
 
 5.	Black Clover
 
