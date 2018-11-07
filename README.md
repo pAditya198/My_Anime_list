@@ -48,18 +48,58 @@
 
 22.	Garo
 
-21.	Haikyuu
+23.	Haikyuu
 
-22.	Hero Tale
+24.	Hero Tale
 
-23.	Hai To Gensou No Grimgar
+25.	Hai To Gensou No Grimgar
 
-24.	Inazuma Eleven(All up to date)
+26.	Inazuma Eleven(All up to date)
 
-25.	Kimi no NaWa
+27.	Kimi no NaWa
 
-26.	Koe no Katachi
+28.	Koe no Katachi
 
-27.	Kyokai no kanata
+29.	Kyokai no kanata
+
+30. Kingdom
+
+31. Kingsglaive:Final Fantasy XV
+
+32. Kuroko no Basket
+
+33. Mob Psycho 100
+
+34. Nanatsu no Taizai
+
+35. Noragami
+
+36. One Piece
+
+37. One PunchMan
+
+38. Pokemon
+
+39. Quanzhi Fashi
+
+40. ReLife
+
+41. Shingeki no Bahamut
+
+42. Shingeki no kyojin
+
+43. Sinbad
+
+44.Sword Art Online
+
+45. Shingatsu wa Kimi no Uso
+
+46. kuusen Madoushi Kouhosei no kyoukan
+
+47. Tokyo Ghoul
+
+48. Zatch bell
+
+49. Zetman
 
 ***
