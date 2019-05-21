@@ -142,6 +142,8 @@
 
 42. Shingeki no kyojin
 
+42. Shokugeki no Souma
+
 43. Sinbad
 
 43. Stein's Gate
