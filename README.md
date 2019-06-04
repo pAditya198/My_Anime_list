@@ -42,6 +42,8 @@
 
 10.	Code Geaus
 
+11. Days
+
 11.	Death Note
 
 11. Dororo (ongoing)
