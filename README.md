@@ -82,88 +82,98 @@
 
 25.	Hai To Gensou No Grimgar
 
-25. Hunter x Hunter (ongoing)
+26.	High School DXD
 
-26. Idaten Jump
+27.	Hunter x Hunter (ongoing)
 
-26.	Inazuma Eleven
+28.	Idaten Jump
 
-26. Inazuma Eleven Go
+29.	Inazuma Eleven
 
-26. Inazuma Eleven Go Galaxy
+30. Inazuma Eleven Go
 
-26. Inazuma Eleven Go: Chrono Stone
+31. Inazuma Eleven Go Galaxy
 
-26. Inazuma Eleven: Ares no Tenbin
+32. Inazuma Eleven Go: Chrono Stone
 
-26. Inazuma Eleven: Orion no Kokuin
+33. Inazuma Eleven: Ares no Tenbin
 
-27.	Kimi no NaWa
+34. Inazuma Eleven: Orion no Kokuin
 
-28.	Koe no Katachi
+35.	Kimi no NaWa
 
-29.	Kyokai no kanata
+36.	Koe no Katachi
 
-30. Kimi no Suizō o Tabetai
+37.	Kyokai no kanata
 
-30. Kingdom
+38. Kimi no Suizō o Tabetai
 
-31. Kingsglaive:Final Fantasy XV
+39. Kingdom
 
-32. Kuroko no Basket
+40. Kingsglaive:Final Fantasy XV
 
-33. kuusen Madoushi Kouhosei no kyoukan
+41. Kuroko no Basket
 
-33. Mob Psycho 100
+42. kuusen Madoushi Kouhosei no kyoukan
 
-34. Magi
+43. Mob Psycho 100
 
-34. Nanatsu no Taizai
+44. Magi
 
-35. Naruto
+45. My Hero Academia
+46. Nanatsu no Taizai
+47. Naruto
 
-35. Naruto Shippuuden
+48. Naruto Shippuuden
 
-35. Noragami
+49. Noragami
 
-35. No Game No Life
+50. No Game No Life
 
-36. One Piece
+51. One Piece
 
-37. One PunchMan
+52. One PunchMan
 
-38. Plastic Memories (ongoing) 
+53. Plastic Memories (ongoing) 
 
-38. Pokemon
+54. Pokemon
 
-39. Quanzhi Fashi
+55. Quanzhi Fashi
 
-40. ReLife
+56. ReLife
 
-41. Shingeki no Bahamut
+57. Shingeki no Bahamut
 
-42. Shingeki no kyojin
+58. Shingeki no kyojin
 
-42. Shokugeki no Souma
+59. Shokugeki no Souma
 
-43. Sinbad
+60. Sinbad
 
-43. Stein's Gate
+61. Stein's Gate
 
-44. Sword Art Online
+62. Sword Art Online
 
-44. Sword Art Online: Alicization
+63. Sword Art Online: Alicization
 
-45. Shingatsu wa Kimi no Uso
+64. Shingatsu wa Kimi no Uso
 
-46. Tokyo Ghoul
+65. The MisFit of Demon King Academy
 
-46. Tokyo Ghoul:re
+67. The Irregular at Magic High School
 
-47. Twin Star Exorcist
+68. Tokyo Ghoul
 
-48. Zatch bell
+69. Tokyo Ghou
 
-49. Zetman
+70. Tokyo Revengers
+
+71. Twin Star Exorcist
+
+72. Vinland Saga
+
+73. Zatch bell
+
+74. Zetman
 
 ***
